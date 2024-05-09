@@ -5,8 +5,9 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-resende?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlkwNwBIOTom3n6%2BfQ06q0Q%3D%3D)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasRLC&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiasRLC&show_icons=true&theme=radical)?
+<br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasRLC&layout=compact&langs_count=7&theme=radical"/>
 
 ### Tecnologias que uso no meu dia
 
